@@ -1,0 +1,26 @@
+{
+  "name": "red",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendinikertenkelebek/Red.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kendinikertenkelebek/Red/issues"
+  },
+  "homepage": "https://github.com/kendinikertenkelebek/Red#readme"
+}
