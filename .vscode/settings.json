@@ -1,0 +1,72 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.editor.highlightModifiedTabs": true,
+  "window.zoomLevel": 0,
+  "explorer.incrementalNaming": "smart",
+  "explorer.confirmDelete": false,
+  "editor.fontFamily": "Menlo, Consolas, DejaVu Sans Mono, monospace",
+  "editor.fontWeight": "bold",
+  "editor.fontSize": 14,
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+  "vsicons.dontShowNewVersionMessage": true,
+  "vsicons.projectDetection.autoReload": true,
+  "path-intellisense.autoSlashAfterDirectory": true,
+  "git.confirmSync": false,
+  "git.autoRepositoryDetection": true,
+  "npm.autoDetect": "on",
+  "npm.runSilent": false,
+  "eslint.alwaysShowStatus": true,
+  "eslint.run": "onType",
+  "eslint.trace.server": "messages",
+  "eslint.validate": ["javascript"],
+  "importCost.mediumPackageColor": "#E2BE1D",
+  "jest.pathToConfig": "jest.config.js",
+  "jest.showCoverageOnLoad": true,
+  "todohighlight.isEnable": true,
+  "todohighlight.isCaseSensitive": true,
+  "todohighlight.keywords": [
+    {
+      "text": "TODO:",
+      "color": "#fff",
+      "backgroundColor": "#FF0000",
+      "overviewRulerColor": "#FF0000"
+    },
+    {
+      "text": "NOTE:",
+      "color": "#fff",
+      "backgroundColor": "#199AEA",
+      "overviewRulerColor": "#199AEA"
+    },
+    {
+      "text": "REVIEW:",
+      "color": "#333",
+      "backgroundColor": "#EA19B2",
+      "overviewRulerColor": "#EA19B2"
+    },
+    {
+      "text": "REFACTOR:",
+      "color": "#000",
+      "backgroundColor": "#9004DB",
+      "overviewRulerColor": "#9004DB"
+    },
+    {
+      "text": "DEPRECATED:",
+      "color": "#000",
+      "backgroundColor": "#fff",
+      "overviewRulerColor": "#fff"
+    },
+    {
+      "text": "HELP:",
+      "color": "#000",
+      "backgroundColor": "yellow",
+      "overviewRulerColor": "yellow"
+    }
+  ],
+  "todohighlight.include": ["**/*.js", "test/**/*.test.js"],
+  "todohighlight.exclude": ["**/node_modules/**", "**/.vscode/**", "**/.github/**", "**/.circleci/**"]
+}

@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "zhuangtongfa.material-theme",
+    "vscode-icons-team.vscode-icons",
+    "coenraads.bracket-pair-colorizer",
+    "christian-kohler.path-intellisense",
+    "wix.vscode-import-cost",
+    "dbaeumer.vscode-eslint",
+    "orta.vscode-jest",
+    "eamodio.gitlens",
+    "wayou.vscode-todo-highlight"
+  ]
+}
