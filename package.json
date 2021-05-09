@@ -9,10 +9,8 @@
     "lint:fix": "eslint src --fix"
   },
   "keywords": [],
-  "dependencies": {
-    "axios": "^0.21.1"
-  },
   "devDependencies": {
+    "axios": "^0.21.1",
     "eslint": "^7.25.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.22.1",
