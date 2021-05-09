@@ -1,0 +1,6 @@
+## Ignored Files
+.circleci/
+.github/
+.vscode/
+node_modules/
+test/
