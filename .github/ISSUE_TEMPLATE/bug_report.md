@@ -5,7 +5,7 @@ about: Report incorrect or unexpected behavior of cyberpoints
 
 <!--
 If you need help with cyberpoints installation or usage, please go to the cyberpoints Discord server instead:
-  https://discord.gg/TJKPyTw
+  https://discord.gg/link
 This issue tracker is only for bug reports and enhancement suggestions. You won't receive any basic help here.
 -->
 
